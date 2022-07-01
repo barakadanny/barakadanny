@@ -1,6 +1,6 @@
 # Hola 😎👋, I'm [Baraka Danny](https://github.com/barakadanny)
 
-- I’m a web full stack web developer
+- I’m a full stack web developer
 - I'm based in the universe🌌, Working remotely🤗
 - Currently Learning and building awesome stuffs 
 
