@@ -21,7 +21,7 @@
 - 🤗 I’m a **team player** and **always ready to help others**.
 - 🤝 I’m a **passionate communicator** and **always ready to share knowledge**.
 - 📫 How to reach me: <a href="mailto:barakadan421@gmail.com">Send an Email</a>.
-- 🌐 Link to my personal Website: <a href="https://barakadan.vercel.app/">barakadan.com</a>.
+- 🌐 Link to my personal Website: <a href="https://barakadanny.github.io/BarakaDanny-/">barakadan.com</a>.
 - 😄 Pronouns: **He**/ **him** / **his**.
 - 💻 Currently Learning and building awesome stuffs
 
