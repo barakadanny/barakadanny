@@ -16,14 +16,10 @@
 </a></p>
 
 - 🤔 I’m currently networking and **looking for opportunities for a great job**.
-- 👯 I’m looking to collaborate on **Real-World** and **Open-Source** projects
-- 🤓 I’m a **passionate learner** and **always looking to learn new things**.
 - 🤗 I’m a **team player** and **always ready to help others**.
 - 🤝 I’m a **passionate communicator** and **always ready to share knowledge**.
 - 📫 How to reach me: <a href="mailto:barakadan421@gmail.com">Send an Email</a>.
-- 🌐 Link to my personal Website: <a href="https://barakadanny.github.io/BarakaDanny-/">barakadan.com</a>.
-- 😄 Pronouns: **He**/ **him** / **his**.
-- 💻 Currently Learning and building awesome stuffs
+- 🌐 Link to my personal Website: <a href="https://barakadanny.github.io/BarakaDanny-/">Here</a>.
 
 <h3 align="center">Connect with me:
 <img src='./ressources/handshake.gif' width="100px">
@@ -46,27 +42,25 @@
 
 | Stack              | Technology                                                                  |
 | ------------------ | --------------------------------------------------------------------------- |
-| Frontend           | JavaScript, Reactjs, Redux (Redux Thunk, Redux/Toolkit, Redux Saga), NextJs |
-| Backend            | Php, Laravel, REST API, Firebase                                            |
-| Database           | MySQL                                                                       |
-| Testing            | Jest                                                                        |
-| Styling            | Styled-components, SASS, CSS-in-JS, MaterialUI, Bootstrap, TailwindCSS      |
-| Product management | UI design, UX design, Prototyping, Wireframing                              |
-| Bundler Technology | Webpack                                                                     |
-| Tools & Methods    | Netlify, Chrome Dev Tools, Postman, Notion                                  |
-| Version Control    | Git, Github, Gitlab                                                         |
+| Frontend           | `JavaScript`, `Reactjs`, `Redux` (Redux Thunk, Redux/Toolkit, Redux Saga), `NextJs` |
+| Backend            | `Php`, `Laravel`, `REST API`, `Firebase`                                            |
+| Database           | `MySQL`                                                                       |
+| Testing            | `Jest`                                                                        |
+| Styling            | `Styled-components`, `SASS`, `CSS-in-JS`, `MaterialUI`, `Bootstrap`, `TailwindCSS`      |
+| Design | `UI design`, `UX design`, `Prototyping`, `Wireframing`                              |
+| Bundler Technology | `Webpack`                                                                     |
+| Tools & Methods    | `Netlify`, `Chrome Dev Tools`, `Postman`, `Notion`, `VS Code`                                 |
+| Version Control    | `Git`, `Github`                                                        |
 
 - Soft Skills
 
 | Skill       | Skills List                                                                                                         |
 | ----------- | ------------------------------------------------------------------------------------------------------------------- |
-| Soft Skills | Communication, Teamwork, Problem Solving, Time Management, Leadership, Self Motivation, Self Discipline, Creativity |
+| Soft Skills | `Communication`, `Teamwork`, `Problem Solving`, `Time Management`, `Leadership`, `Self Motivation`, `Self Discipline`, `Creativity` |
 
 ## <!-- end section -->
 
 ### My articles 📝
-
-<p align='center'><img src="https://theabbie.github.io/files/logo.png" alt="TheAbbie" width="100" height="100"></p>
 
 - [How to Learn programming fast](https://medium.com/@barakadan421/how-to-learn-programming-fast-25b8e9ee5c7)
 
