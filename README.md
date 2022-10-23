@@ -63,6 +63,7 @@
 ### My articles 📝
 
 - [How to Learn programming fast](https://medium.com/@barakadan421/how-to-learn-programming-fast-25b8e9ee5c7)
+- [The best and shortest way to debug your code.](https://medium.com/@barakadan421/the-best-and-shortest-way-to-debug-your-code-2e9a46888b04)
 
 ---
 
