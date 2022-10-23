@@ -44,7 +44,7 @@
 | ------------------ | --------------------------------------------------------------------------- |
 | Frontend           | `JavaScript`, `Reactjs`, `Redux` (Redux Thunk, Redux/Toolkit, Redux Saga), `NextJs` |
 | Backend            | `Php`, `Laravel`, `REST API`, `Firebase`                                            |
-| Database           | `MySQL`                                                                       |
+| Database           | `MySQL`, `PostgreSQL`                                                                      |
 | Testing            | `Jest`                                                                        |
 | Styling            | `Styled-components`, `SASS`, `CSS-in-JS`, `MaterialUI`, `Bootstrap`, `TailwindCSS`      |
 | Design | `UI design`, `UX design`, `Prototyping`, `Wireframing`                              |
