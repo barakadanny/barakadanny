@@ -13,17 +13,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+engineer+from+Kenya;Open-Source+Enthusiast;Learning+every+day;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
-<p>I'm an experienced software developer with a passion for creating clean, scalable, and efficient code. I have a love for coding, problem-solving and constantly learning new things.😄</p>
+As a software developer with a passion for delivering top-notch solutions, I am constantly striving to stay ahead of the game by keeping up with the latest industry trends and advancements. Whether it's exploring new coding techniques or mastering cutting-edge technologies, I am dedicated to staying at the forefront of my field.
 
-<p>I also happen to have a great sense of humor, which makes coding even more fun!</p>
+When I'm not coding, I love to indulge in my other passions such as coffee and gaming. As a coffee aficionado, I believe that a delicious cup of coffee can make any problem seem solvable (with the exception of coding bugs, of course!). And, as a fan of video games, I find immense joy in the challenge of problem-solving and strategy involved in these virtual worlds.
 
-<p>Navigate my repositories, you'll get a glimpse into my love for coding and technology. I'll share with you some of my favorite quotes, fun facts about myself, and my thoughts on the latest trends in the industry. So, grab a cup of coffee, sit back, and get ready for a journey through the mind of a software engineer with a good sense of humor. And don't hesitate to reach out if you want to chat about code or anything else, I'm always up for a good conversation!</p>
+If you're looking to connect with a software developer who values excellence, creativity, and a good sense of humor, look no further. My Github repositories offer a glimpse into my passion for coding and technology, and I would be delighted to chat with you about all things code or otherwise. So, don't hesitate to reach out – let's start a conversation!
 
-```Fun facts about me? 🤔```
 
-- I'm a coffee connoisseur and I believe that a good cup of coffee can solve any problem (except for the ones caused by bad code).
-- I love video games, especially the ones that challenge my problem-solving skills.
-- 📫 How to reach me: <a href="mailto:barakadan421@gmail.com">Send an Email</a>.
+- 📫 How to reach me: <a href="mailto:barakadan421@gmail.com">barakadan421@gmail.com</a>.
 
 <h4 align="center">Connect with me:
 <img src='./ressources/handshake.gif' width="50px">
