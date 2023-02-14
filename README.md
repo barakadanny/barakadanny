@@ -15,9 +15,9 @@
 
 As a software developer with a passion for delivering top-notch solutions, I am constantly striving to stay ahead of the game by keeping up with the latest industry trends and advancements. Whether it's exploring new coding techniques or mastering cutting-edge technologies, I am dedicated to staying at the forefront of my field.
 
-When I'm not coding, I love to indulge in my other passions such as coffee and gaming. As a coffee aficionado, I believe that a delicious cup of coffee can make any problem seem solvable (with the exception of coding bugs, of course!). And, as a fan of video games, I find immense joy in the challenge of problem-solving and strategy involved in these virtual worlds.
+When I'm not coding, I love to indulge in my other passions, such as coffee and gaming. As a coffee aficionado, I believe that a delicious cup of coffee can make any problem seem solvable (with the exception of coding bugs, of course!). And, as a fan of video games, I find immense joy in the challenge of problem-solving and strategy involved in these virtual worlds.
 
-If you're looking to connect with a software developer who values excellence, creativity, and a good sense of humor, look no further. My Github repositories offer a glimpse into my passion for coding and technology, and I would be delighted to chat with you about all things code or otherwise. So, don't hesitate to reach out – let's start a conversation!
+If you're looking to connect with a software developer who values excellence, creativity, and a good sense of humor, look no further. My Github repositories offer a glimpse into my passion for coding and technology, and I would be delighted to chat with you about all things code or otherwise. So don't hesitate to reach out—let's start a conversation!
 
 
 - 📫 How to reach me: <a href="mailto:barakadan421@gmail.com">barakadan421@gmail.com</a>.
