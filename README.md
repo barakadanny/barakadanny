@@ -8,14 +8,11 @@
   <img src="./ressources/Hi.gif" width="20px" />, I'm Baraka Danny 👨‍💻</h3>
 <h4 align="center">Full-Stack Software Developer ✔🌟.
 </h4>
+<h1 align="center">
+          I am working to solve the world's biggest problem.
+</h3>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+engineer+from+Kenya;Open-Source+Enthusiast;Learning+every+day;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
-</p>
-
-As a software developer with a passion for delivering top-notch solutions, I am constantly striving to stay ahead of the game by keeping up with the latest industry trends and advancements. Whether it's exploring new coding techniques or mastering cutting-edge technologies, I am dedicated to staying at the forefront of my field.
-
-When I'm not coding, I love to indulge in my other passions, such as coffee and gaming. As a coffee aficionado, I believe that a delicious cup of coffee can make any problem seem solvable (with the exception of coding bugs, of course!). And, As a fan of video games, I find immense joy in the challenge of problem-solving and strategy involved in these virtual worlds.
+As a software enthusiast, my goal is simple: using cool tech and clever code to tackle the important stuff
 
 If you're looking to connect with a software developer who values excellence, creativity, and a good sense of humor, look no further. My Github repositories offer a glimpse into my passion for coding and technology, and I would be delighted to chat with you about all things code or otherwise. So don't hesitate to reach out—let's start a conversation!
 
